@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "sistema": "Windows-11-10.0.26300-SP0",
+  "cpu": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD",
+  "bloques": 40,
+  "pares": 10240,
+  "base": {
+    "mediana_ms": 0.0289,
+    "p95_ms": 0.08270999999999999,
+    "p99_ms": 0.120305
+  },
+  "cache": {
+    "mediana_ms": 0.0245,
+    "p95_ms": 0.0683,
+    "p99_ms": 0.1033
+  },
+  "umbral_ms": 1.0,
+  "p_signos_unilateral": 9.094947017729282e-13,
+  "bloques_favorables": 40,
+  "bloques_desfavorables": 0,
+  "efecto_mediana_delta_ms": 0.003425
+}
